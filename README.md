@@ -8,7 +8,7 @@
 🎓 &nbsp;I recently graduated as an Engineer in Software Development and Management.\
 🌱 &nbsp; I'm on track for learning more about Web3 and software architecture patterns.\
 🎸 &nbsp;In my free time, I like to learn music — I play the guitar as a hobby.\
-✉️ &nbsp;You can shoot me an email at yahirdegantesalinas@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at yahirdegantesalinas@gmail.com! I'll try to respond as soon as I can.
 
 
 ### 🛠 &nbsp;Tech Stack
