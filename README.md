@@ -14,7 +14,7 @@
 ### 🛠 &nbsp;Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,dart,html,css,nodejs,spring,vue,react,angular,flutter,aws,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=js,java,dart,py,php,html,css,nodejs,spring,vue,react,angular,flutter,laravel,aws,postman,figma" />
   </a>
 </p>
 
